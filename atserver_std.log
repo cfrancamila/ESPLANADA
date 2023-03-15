@@ -472,3 +472,91 @@
 2023-03-15 11:58:17.502 [N] [CAMILINHA OPCUA               ] Down
 2023-03-15 11:58:17.507 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Down
 2023-03-15 11:58:17.679 [N] [CAMILINHA CORE                ] Down
+2023-03-15 13:26:39.715 [I] [CAMILINHA ========            ] ==================== atvise server (3.4.0 (560-cb1aefc07) 32bit / Windows NT 6.2 (Build 9200) IA32) ====================
+2023-03-15 13:26:39.720 [I] [CAMILINHA ========            ] ==================== license id: CAREL ====================
+2023-03-15 13:26:39.721 [I] [CAMILINHA CNM                 ] Registered listener CORE (1)
+2023-03-15 13:26:39.721 [I] [CAMILINHA CNM                 ] Registered listener TaskManager::Connector (2)
+2023-03-15 13:26:39.723 [N] [CAMILINHA CORE                ] Starting
+2023-03-15 13:26:39.725 [I] [CAMILINHA CNM                 ] Registered listener OPCUA (3)
+2023-03-15 13:26:39.725 [I] [CAMILINHA CNM                 ] Registered listener DATABASE (4)
+2023-03-15 13:26:39.727 [N] [CAMILINHA CORE                ] Up
+2023-03-15 13:26:39.727 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loading
+2023-03-15 13:26:39.742 [N] [CAMILINHA OPCUA               ] Starting
+2023-03-15 13:26:39.746 [N] [CAMILINHA DATABASE            ] Starting
+2023-03-15 13:26:40.230 [N] [CAMILINHA DATABASE            ] Up
+2023-03-15 13:26:40.230 [N] [CAMILINHA OPCUA               ] Loaded
+2023-03-15 13:26:40.247 [N] [CAMILINHA OPCUA               ] Up
+2023-03-15 13:26:40.262 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-15 13:26:40.262 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Starting
+2023-03-15 13:26:40.262 [I] [CAMILINHA CNM                 ] Registered listener SCRIPT (5)
+2023-03-15 13:26:40.262 [W] [CAMILINHA SCRIPT              ] Cannot trigger web, node, alarm, time and event triggered scripts in restricted mode.
+2023-03-15 13:26:40.262 [I] [CAMILINHA CNM                 ] Registered listener GENERATOR (6)
+2023-03-15 13:26:40.276 [N] [CAMILINHA GENERATOR           ] Starting
+2023-03-15 13:26:40.276 [N] [CAMILINHA SCRIPT              ] Starting
+2023-03-15 13:26:40.279 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_data.dll
+2023-03-15 13:26:40.287 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_network.dll
+2023-03-15 13:26:40.289 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_odbc.dll
+2023-03-15 13:26:40.290 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_system.dll
+2023-03-15 13:26:40.437 [N] [CAMILINHA GENERATOR           ] Up
+2023-03-15 13:26:40.451 [N] [CAMILINHA SCRIPT              ] Up
+2023-03-15 13:26:40.451 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Up
+2023-03-15 13:48:49.720 [N] [CAMILINHA CORE                ] Stopping modules
+2023-03-15 13:48:49.722 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Stopping
+2023-03-15 13:48:49.735 [N] [CAMILINHA GENERATOR           ] Stopping
+2023-03-15 13:48:49.735 [N] [CAMILINHA SCRIPT              ] Stopping
+2023-03-15 13:48:49.751 [N] [CAMILINHA GENERATOR           ] Down
+2023-03-15 13:48:49.772 [N] [CAMILINHA SCRIPT              ] Down
+2023-03-15 13:48:49.773 [I] [CAMILINHA SCRIPT              ] Unregistering SCRIPT (5)
+2023-03-15 13:48:49.783 [I] [CAMILINHA GENERATOR           ] Unregistering GENERATOR (6)
+2023-03-15 13:48:49.788 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-15 13:48:49.788 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Unloading
+2023-03-15 13:48:49.789 [N] [CAMILINHA OPCUA               ] Stopping
+2023-03-15 13:48:49.790 [N] [CAMILINHA DATABASE            ] Stopping
+2023-03-15 13:48:49.856 [N] [CAMILINHA DATABASE            ] Down
+2023-03-15 13:48:50.122 [N] [CAMILINHA OPCUA               ] Down
+2023-03-15 13:48:50.134 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Down
+2023-03-15 13:48:50.303 [N] [CAMILINHA CORE                ] Down
+2023-03-15 13:49:57.720 [I] [CAMILINHA ========            ] ==================== atvise server (3.4.0 (560-cb1aefc07) 32bit / Windows NT 6.2 (Build 9200) IA32) ====================
+2023-03-15 13:49:57.724 [I] [CAMILINHA ========            ] ==================== license id: CAREL ====================
+2023-03-15 13:49:57.724 [I] [CAMILINHA CNM                 ] Registered listener CORE (1)
+2023-03-15 13:49:57.724 [I] [CAMILINHA CNM                 ] Registered listener TaskManager::Connector (2)
+2023-03-15 13:49:57.726 [N] [CAMILINHA CORE                ] Starting
+2023-03-15 13:49:57.728 [I] [CAMILINHA CNM                 ] Registered listener OPCUA (3)
+2023-03-15 13:49:57.728 [I] [CAMILINHA CNM                 ] Registered listener DATABASE (4)
+2023-03-15 13:49:57.729 [N] [CAMILINHA CORE                ] Up
+2023-03-15 13:49:57.729 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loading
+2023-03-15 13:49:57.742 [N] [CAMILINHA OPCUA               ] Starting
+2023-03-15 13:49:57.748 [N] [CAMILINHA DATABASE            ] Starting
+2023-03-15 13:49:57.943 [N] [CAMILINHA DATABASE            ] Up
+2023-03-15 13:49:57.943 [N] [CAMILINHA OPCUA               ] Loaded
+2023-03-15 13:49:57.960 [N] [CAMILINHA OPCUA               ] Up
+2023-03-15 13:49:57.974 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-15 13:49:57.974 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Starting
+2023-03-15 13:49:57.975 [I] [CAMILINHA CNM                 ] Registered listener SCRIPT (5)
+2023-03-15 13:49:57.975 [W] [CAMILINHA SCRIPT              ] Cannot trigger web, node, alarm, time and event triggered scripts in restricted mode.
+2023-03-15 13:49:57.975 [I] [CAMILINHA CNM                 ] Registered listener GENERATOR (6)
+2023-03-15 13:49:57.989 [N] [CAMILINHA GENERATOR           ] Starting
+2023-03-15 13:49:57.989 [N] [CAMILINHA SCRIPT              ] Starting
+2023-03-15 13:49:57.994 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_data.dll
+2023-03-15 13:49:58.007 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_network.dll
+2023-03-15 13:49:58.010 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_odbc.dll
+2023-03-15 13:49:58.011 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_system.dll
+2023-03-15 13:49:58.150 [N] [CAMILINHA GENERATOR           ] Up
+2023-03-15 13:49:58.155 [N] [CAMILINHA SCRIPT              ] Up
+2023-03-15 13:49:58.155 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Up
+2023-03-15 14:02:53.763 [N] [CAMILINHA CORE                ] Stopping modules
+2023-03-15 14:02:53.764 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Stopping
+2023-03-15 14:02:53.778 [N] [CAMILINHA GENERATOR           ] Stopping
+2023-03-15 14:02:53.778 [N] [CAMILINHA SCRIPT              ] Stopping
+2023-03-15 14:02:53.794 [N] [CAMILINHA GENERATOR           ] Down
+2023-03-15 14:02:53.797 [N] [CAMILINHA SCRIPT              ] Down
+2023-03-15 14:02:53.797 [I] [CAMILINHA SCRIPT              ] Unregistering SCRIPT (5)
+2023-03-15 14:02:53.800 [I] [CAMILINHA GENERATOR           ] Unregistering GENERATOR (6)
+2023-03-15 14:02:53.800 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-15 14:02:53.809 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Unloading
+2023-03-15 14:02:53.810 [N] [CAMILINHA OPCUA               ] Stopping
+2023-03-15 14:02:53.810 [N] [CAMILINHA DATABASE            ] Stopping
+2023-03-15 14:02:53.873 [N] [CAMILINHA DATABASE            ] Down
+2023-03-15 14:02:54.117 [N] [CAMILINHA OPCUA               ] Down
+2023-03-15 14:02:54.119 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Down
+2023-03-15 14:02:54.289 [N] [CAMILINHA CORE                ] Down
