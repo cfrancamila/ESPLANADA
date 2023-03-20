@@ -712,3 +712,208 @@
 2023-03-16 15:33:08.541 [N] [CAMILINHA OPCUA               ] Down
 2023-03-16 15:33:08.555 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Down
 2023-03-16 15:33:08.725 [N] [CAMILINHA CORE                ] Down
+2023-03-17 08:06:30.311 [I] [CAMILINHA ========            ] ==================== atvise server (3.4.0 (560-cb1aefc07) 32bit / Windows NT 6.2 (Build 9200) IA32) ====================
+2023-03-17 08:06:30.317 [I] [CAMILINHA ========            ] ==================== license id: CAREL ====================
+2023-03-17 08:06:30.319 [I] [CAMILINHA CNM                 ] Registered listener CORE (1)
+2023-03-17 08:06:30.319 [I] [CAMILINHA CNM                 ] Registered listener TaskManager::Connector (2)
+2023-03-17 08:06:30.321 [N] [CAMILINHA CORE                ] Starting
+2023-03-17 08:06:30.327 [I] [CAMILINHA CNM                 ] Registered listener OPCUA (3)
+2023-03-17 08:06:30.327 [I] [CAMILINHA CNM                 ] Registered listener DATABASE (4)
+2023-03-17 08:06:30.337 [N] [CAMILINHA CORE                ] Up
+2023-03-17 08:06:30.337 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loading
+2023-03-17 08:06:30.388 [N] [CAMILINHA OPCUA               ] Starting
+2023-03-17 08:06:30.399 [N] [CAMILINHA DATABASE            ] Starting
+2023-03-17 08:06:30.901 [N] [CAMILINHA DATABASE            ] Up
+2023-03-17 08:06:30.901 [N] [CAMILINHA OPCUA               ] Loaded
+2023-03-17 08:06:30.918 [N] [CAMILINHA OPCUA               ] Up
+2023-03-17 08:06:30.932 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-17 08:06:30.932 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Starting
+2023-03-17 08:06:30.932 [I] [CAMILINHA CNM                 ] Registered listener SCRIPT (5)
+2023-03-17 08:06:30.932 [W] [CAMILINHA SCRIPT              ] Cannot trigger web, node, alarm, time and event triggered scripts in restricted mode.
+2023-03-17 08:06:30.932 [I] [CAMILINHA CNM                 ] Registered listener GENERATOR (6)
+2023-03-17 08:06:30.948 [N] [CAMILINHA GENERATOR           ] Starting
+2023-03-17 08:06:30.948 [N] [CAMILINHA SCRIPT              ] Starting
+2023-03-17 08:06:30.953 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_data.dll
+2023-03-17 08:06:31.055 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_network.dll
+2023-03-17 08:06:31.118 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_odbc.dll
+2023-03-17 08:06:31.238 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_system.dll
+2023-03-17 08:06:31.435 [N] [CAMILINHA GENERATOR           ] Up
+2023-03-17 08:06:31.449 [N] [CAMILINHA SCRIPT              ] Up
+2023-03-17 08:06:31.449 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Up
+2023-03-17 08:10:56.257 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 08:41:58.303 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:00:38.709 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:01:59.647 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:03:19.898 [N] [CAMILINHA CORE                ] Stopping modules
+2023-03-17 13:03:19.899 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Stopping
+2023-03-17 13:03:19.912 [N] [CAMILINHA GENERATOR           ] Stopping
+2023-03-17 13:03:19.914 [N] [CAMILINHA SCRIPT              ] Stopping
+2023-03-17 13:03:19.927 [N] [CAMILINHA GENERATOR           ] Down
+2023-03-17 13:03:19.979 [N] [CAMILINHA SCRIPT              ] Down
+2023-03-17 13:03:19.980 [I] [CAMILINHA SCRIPT              ] Unregistering SCRIPT (5)
+2023-03-17 13:03:20.007 [I] [CAMILINHA GENERATOR           ] Unregistering GENERATOR (6)
+2023-03-17 13:03:20.014 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-17 13:03:20.014 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Unloading
+2023-03-17 13:03:20.014 [N] [CAMILINHA OPCUA               ] Stopping
+2023-03-17 13:03:20.018 [N] [CAMILINHA DATABASE            ] Stopping
+2023-03-17 13:03:20.129 [N] [CAMILINHA DATABASE            ] Down
+2023-03-17 13:03:20.562 [N] [CAMILINHA OPCUA               ] Down
+2023-03-17 13:03:20.577 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Down
+2023-03-17 13:03:20.749 [N] [CAMILINHA CORE                ] Down
+2023-03-17 13:03:34.827 [I] [CAMILINHA ========            ] ==================== atvise server (3.4.0 (560-cb1aefc07) 32bit / Windows NT 6.2 (Build 9200) IA32) ====================
+2023-03-17 13:03:34.849 [I] [CAMILINHA ========            ] ==================== license id: CAREL ====================
+2023-03-17 13:03:34.849 [I] [CAMILINHA CNM                 ] Registered listener CORE (1)
+2023-03-17 13:03:34.850 [I] [CAMILINHA CNM                 ] Registered listener TaskManager::Connector (2)
+2023-03-17 13:03:34.854 [N] [CAMILINHA CORE                ] Starting
+2023-03-17 13:03:34.860 [I] [CAMILINHA CNM                 ] Registered listener OPCUA (3)
+2023-03-17 13:03:34.860 [I] [CAMILINHA CNM                 ] Registered listener DATABASE (4)
+2023-03-17 13:03:34.884 [N] [CAMILINHA CORE                ] Up
+2023-03-17 13:03:34.885 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loading
+2023-03-17 13:03:34.949 [N] [CAMILINHA OPCUA               ] Starting
+2023-03-17 13:03:34.964 [N] [CAMILINHA DATABASE            ] Starting
+2023-03-17 13:03:35.816 [N] [CAMILINHA DATABASE            ] Up
+2023-03-17 13:03:35.816 [N] [CAMILINHA OPCUA               ] Loaded
+2023-03-17 13:03:35.843 [N] [CAMILINHA OPCUA               ] Up
+2023-03-17 13:03:35.862 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-17 13:03:35.862 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Starting
+2023-03-17 13:03:35.868 [I] [CAMILINHA CNM                 ] Registered listener SCRIPT (5)
+2023-03-17 13:03:35.868 [W] [CAMILINHA SCRIPT              ] Cannot trigger web, node, alarm, time and event triggered scripts in restricted mode.
+2023-03-17 13:03:35.868 [I] [CAMILINHA CNM                 ] Registered listener GENERATOR (6)
+2023-03-17 13:03:35.878 [N] [CAMILINHA GENERATOR           ] Starting
+2023-03-17 13:03:35.878 [N] [CAMILINHA SCRIPT              ] Starting
+2023-03-17 13:03:35.908 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_data.dll
+2023-03-17 13:03:36.033 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_network.dll
+2023-03-17 13:03:36.135 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_odbc.dll
+2023-03-17 13:03:36.236 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_system.dll
+2023-03-17 13:03:36.456 [N] [CAMILINHA GENERATOR           ] Up
+2023-03-17 13:03:36.465 [N] [CAMILINHA SCRIPT              ] Up
+2023-03-17 13:03:36.465 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Up
+2023-03-17 13:04:27.470 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:09:43.408 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:10:42.024 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:12:41.619 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:16:35.096 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:29:44.636 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:34:14.767 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:37:39.609 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 13:41:32.132 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 14:31:09.911 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 14:41:03.640 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 14:49:50.110 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 14:54:50.311 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 14:56:18.100 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 14:58:02.980 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-17 15:38:19.127 [N] [CAMILINHA CORE                ] Stopping modules
+2023-03-17 15:38:19.129 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Stopping
+2023-03-17 15:38:19.147 [N] [CAMILINHA GENERATOR           ] Stopping
+2023-03-17 15:38:19.149 [N] [CAMILINHA SCRIPT              ] Stopping
+2023-03-17 15:38:19.161 [N] [CAMILINHA GENERATOR           ] Down
+2023-03-17 15:38:19.220 [N] [CAMILINHA SCRIPT              ] Down
+2023-03-17 15:38:19.221 [I] [CAMILINHA SCRIPT              ] Unregistering SCRIPT (5)
+2023-03-17 15:38:19.257 [I] [CAMILINHA GENERATOR           ] Unregistering GENERATOR (6)
+2023-03-17 15:38:19.269 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-17 15:38:19.269 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Unloading
+2023-03-17 15:38:19.271 [N] [CAMILINHA OPCUA               ] Stopping
+2023-03-17 15:38:19.279 [N] [CAMILINHA DATABASE            ] Stopping
+2023-03-17 15:38:19.401 [N] [CAMILINHA DATABASE            ] Down
+2023-03-17 15:38:19.750 [N] [CAMILINHA OPCUA               ] Down
+2023-03-17 15:38:19.759 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Down
+2023-03-17 15:38:19.932 [N] [CAMILINHA CORE                ] Down
+2023-03-20 08:19:20.770 [I] [CAMILINHA ========            ] ==================== atvise server (3.4.0 (560-cb1aefc07) 32bit / Windows NT 6.2 (Build 9200) IA32) ====================
+2023-03-20 08:19:20.782 [I] [CAMILINHA ========            ] ==================== license id: CAREL ====================
+2023-03-20 08:19:20.782 [I] [CAMILINHA CNM                 ] Registered listener CORE (1)
+2023-03-20 08:19:20.783 [I] [CAMILINHA CNM                 ] Registered listener TaskManager::Connector (2)
+2023-03-20 08:19:20.787 [N] [CAMILINHA CORE                ] Starting
+2023-03-20 08:19:20.792 [I] [CAMILINHA CNM                 ] Registered listener OPCUA (3)
+2023-03-20 08:19:20.794 [I] [CAMILINHA CNM                 ] Registered listener DATABASE (4)
+2023-03-20 08:19:20.817 [N] [CAMILINHA CORE                ] Up
+2023-03-20 08:19:20.818 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loading
+2023-03-20 08:19:20.895 [N] [CAMILINHA OPCUA               ] Starting
+2023-03-20 08:19:20.912 [N] [CAMILINHA DATABASE            ] Starting
+2023-03-20 08:19:21.806 [N] [CAMILINHA DATABASE            ] Up
+2023-03-20 08:19:21.806 [N] [CAMILINHA OPCUA               ] Loaded
+2023-03-20 08:19:21.838 [N] [CAMILINHA OPCUA               ] Up
+2023-03-20 08:19:21.852 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-20 08:19:21.853 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Starting
+2023-03-20 08:19:21.861 [I] [CAMILINHA CNM                 ] Registered listener SCRIPT (5)
+2023-03-20 08:19:21.862 [W] [CAMILINHA SCRIPT              ] Cannot trigger web, node, alarm, time and event triggered scripts in restricted mode.
+2023-03-20 08:19:21.865 [I] [CAMILINHA CNM                 ] Registered listener GENERATOR (6)
+2023-03-20 08:19:21.866 [N] [CAMILINHA GENERATOR           ] Starting
+2023-03-20 08:19:21.866 [N] [CAMILINHA SCRIPT              ] Starting
+2023-03-20 08:19:21.916 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_data.dll
+2023-03-20 08:19:22.097 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_network.dll
+2023-03-20 08:19:22.216 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_odbc.dll
+2023-03-20 08:19:22.329 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_system.dll
+2023-03-20 08:19:22.611 [N] [CAMILINHA GENERATOR           ] Up
+2023-03-20 08:19:22.624 [N] [CAMILINHA SCRIPT              ] Up
+2023-03-20 08:19:22.624 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Up
+2023-03-20 09:47:27.591 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-20 09:58:15.596 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-20 09:59:26.376 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-20 10:00:26.135 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-20 10:01:51.075 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-20 10:02:47.138 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-20 10:04:46.189 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-20 10:45:40.335 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-20 11:00:09.530 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-20 12:47:27.484 [E] [CAMILINHA GENERATOR           ] Couldn't distribute server 'ESPLANADA': FTP Exception: Cannot remove 10pavb.png: 550 Could not delete 10pavb.png: No such file or directory
+2023-03-20 12:47:35.015 [N] [CAMILINHA CORE                ] Stopping modules
+2023-03-20 12:47:35.016 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Stopping
+2023-03-20 12:47:35.030 [N] [CAMILINHA GENERATOR           ] Stopping
+2023-03-20 12:47:35.032 [N] [CAMILINHA SCRIPT              ] Stopping
+2023-03-20 12:47:35.038 [N] [CAMILINHA GENERATOR           ] Down
+2023-03-20 12:47:35.094 [N] [CAMILINHA SCRIPT              ] Down
+2023-03-20 12:47:35.095 [I] [CAMILINHA SCRIPT              ] Unregistering SCRIPT (5)
+2023-03-20 12:47:35.129 [I] [CAMILINHA GENERATOR           ] Unregistering GENERATOR (6)
+2023-03-20 12:47:35.135 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-20 12:47:35.135 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Unloading
+2023-03-20 12:47:35.136 [N] [CAMILINHA OPCUA               ] Stopping
+2023-03-20 12:47:35.139 [N] [CAMILINHA DATABASE            ] Stopping
+2023-03-20 12:47:35.237 [N] [CAMILINHA DATABASE            ] Down
+2023-03-20 12:47:35.552 [N] [CAMILINHA OPCUA               ] Down
+2023-03-20 12:47:35.553 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Down
+2023-03-20 12:47:35.725 [N] [CAMILINHA CORE                ] Down
+2023-03-20 12:47:39.005 [I] [CAMILINHA ========            ] ==================== atvise server (3.4.0 (560-cb1aefc07) 32bit / Windows NT 6.2 (Build 9200) IA32) ====================
+2023-03-20 12:47:39.013 [I] [CAMILINHA ========            ] ==================== license id: CAREL ====================
+2023-03-20 12:47:39.014 [I] [CAMILINHA CNM                 ] Registered listener CORE (1)
+2023-03-20 12:47:39.014 [I] [CAMILINHA CNM                 ] Registered listener TaskManager::Connector (2)
+2023-03-20 12:47:39.015 [N] [CAMILINHA CORE                ] Starting
+2023-03-20 12:47:39.018 [I] [CAMILINHA CNM                 ] Registered listener OPCUA (3)
+2023-03-20 12:47:39.018 [I] [CAMILINHA CNM                 ] Registered listener DATABASE (4)
+2023-03-20 12:47:39.037 [N] [CAMILINHA CORE                ] Up
+2023-03-20 12:47:39.037 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loading
+2023-03-20 12:47:39.063 [N] [CAMILINHA OPCUA               ] Starting
+2023-03-20 12:47:39.069 [N] [CAMILINHA DATABASE            ] Starting
+2023-03-20 12:47:39.287 [N] [CAMILINHA DATABASE            ] Up
+2023-03-20 12:47:39.287 [N] [CAMILINHA OPCUA               ] Loaded
+2023-03-20 12:47:39.304 [N] [CAMILINHA OPCUA               ] Up
+2023-03-20 12:47:39.318 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-20 12:47:39.318 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Starting
+2023-03-20 12:47:39.319 [I] [CAMILINHA CNM                 ] Registered listener SCRIPT (5)
+2023-03-20 12:47:39.319 [W] [CAMILINHA SCRIPT              ] Cannot trigger web, node, alarm, time and event triggered scripts in restricted mode.
+2023-03-20 12:47:39.319 [I] [CAMILINHA CNM                 ] Registered listener GENERATOR (6)
+2023-03-20 12:47:39.334 [N] [CAMILINHA SCRIPT              ] Starting
+2023-03-20 12:47:39.334 [N] [CAMILINHA GENERATOR           ] Starting
+2023-03-20 12:47:39.337 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_data.dll
+2023-03-20 12:47:39.389 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_network.dll
+2023-03-20 12:47:39.426 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_odbc.dll
+2023-03-20 12:47:39.469 [N] [CAMILINHA SCRIPTV8M           ] Loading extension v8x_system.dll
+2023-03-20 12:47:39.649 [N] [CAMILINHA GENERATOR           ] Up
+2023-03-20 12:47:39.653 [N] [CAMILINHA SCRIPT              ] Up
+2023-03-20 12:47:39.653 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Up
+2023-03-20 15:12:44.757 [N] [CAMILINHA CORE                ] Stopping modules
+2023-03-20 15:12:44.768 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Stopping
+2023-03-20 15:12:44.769 [N] [CAMILINHA GENERATOR           ] Stopping
+2023-03-20 15:12:44.772 [N] [CAMILINHA SCRIPT              ] Stopping
+2023-03-20 15:12:44.781 [N] [CAMILINHA GENERATOR           ] Down
+2023-03-20 15:12:44.841 [N] [CAMILINHA SCRIPT              ] Down
+2023-03-20 15:12:44.843 [I] [CAMILINHA SCRIPT              ] Unregistering SCRIPT (5)
+2023-03-20 15:12:44.888 [I] [CAMILINHA GENERATOR           ] Unregistering GENERATOR (6)
+2023-03-20 15:12:44.897 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Loaded
+2023-03-20 15:12:44.897 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Unloading
+2023-03-20 15:12:44.900 [N] [CAMILINHA OPCUA               ] Stopping
+2023-03-20 15:12:44.908 [N] [CAMILINHA DATABASE            ] Stopping
+2023-03-20 15:12:45.015 [N] [CAMILINHA DATABASE            ] Down
+2023-03-20 15:12:45.572 [N] [CAMILINHA OPCUA               ] Down
+2023-03-20 15:12:45.576 [I] [CAMILINHA CORE                ] SYSTEM-STATE: Down
+2023-03-20 15:12:45.747 [N] [CAMILINHA CORE                ] Down
